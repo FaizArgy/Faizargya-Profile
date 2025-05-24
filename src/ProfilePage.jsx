@@ -41,7 +41,7 @@ const App = () => {
         <div className="flex flex-col items-center gap-3 mt-6">
           {/* Tombol Portfolio */}
           <a
-            href="https://faizargyanto.my.id"
+            href="https://faizargya.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 px-6 py-3 bg-white text-black rounded-full shadow w-72 hover:scale-105 transition"
