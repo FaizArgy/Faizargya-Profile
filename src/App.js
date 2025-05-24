@@ -26,13 +26,6 @@ function App() {
    <ProfilePage />
    <Particle />
     <header className="App-Header"></header>
-      <ReactTyped
-        strings={["Faiz Argyanto", "Faiz", "Sysadmin"]}
-        typeSpeed={60}
-        backSpeed={30}
-        loop
-      />
-
 <div>
       {/* Tombol share */}
       <div className="absolute bottom-6 right-6 z-10">
