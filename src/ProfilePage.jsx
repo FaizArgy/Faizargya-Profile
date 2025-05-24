@@ -64,11 +64,7 @@ const App = () => {
       </div>
 
       {/* Share button */}
-      <div className="absolute bottom-6 right-6 z-10">
-        <button className="p-3 bg-black/60 rounded-full hover:bg-white/20">
-          <FiShare2 size={20} />
-        </button>
-      </div>
+    
     </div>
   );
 };
